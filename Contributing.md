@@ -62,7 +62,7 @@ git push
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [Surviellance-Bomb-Diffusion-Robot](https://github.com/ssg8288/Clinify-CPC_Programs) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Clinify-CPC_Programs](https://github.com/ssg8288/Clinify-CPC_Programs) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
