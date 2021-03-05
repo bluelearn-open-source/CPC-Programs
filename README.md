@@ -11,6 +11,13 @@ This repository holds the record of the competitive programming club where the c
 [![Issues](https://img.shields.io/github/issues/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs/issues)
 [![Contributors](https://img.shields.io/github/contributors/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs)
 
-# Guidelines to Contribute into this repository
+# Guidelines For Contributors 
 
--
+   * Fork the Repo.
+   * Clone it.
+   * Checkout a Branch.
+   * Add Features/ Make Changes.
+   * Commit Changes
+   * Push them to the remote Repo.
+   * Make a Pull Request.
+
