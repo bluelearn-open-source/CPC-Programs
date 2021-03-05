@@ -21,3 +21,6 @@ This repository holds the record of the competitive programming club where the c
    * Push them to the remote Repo.
    * Make a Pull Request.
 
+# Contributing for the first time on github??
+
+-check this article [How to get started](https://github.com/ssg8288/Clinify-CPC_Programs/blob/main/Contributing.md)
