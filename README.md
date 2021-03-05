@@ -13,7 +13,7 @@ This repository holds the record of the competitive programming club where the c
 
 # Guidelines For Contributors 
 
-   * Fork the Repo.
+   * Fork the Repo & star it.
    * Clone it.
    * Checkout a Branch.
    * Add Features/ Make Changes.
