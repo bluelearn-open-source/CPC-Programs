@@ -23,4 +23,4 @@ This repository holds the record of the competitive programming club where the c
 
 # Contributing for the first time on github??
 
--check this article [How to get started](https://github.com/ssg8288/Clinify-CPC_Programs/blob/main/Contributing.md)
+- check this article [How to get started](https://github.com/ssg8288/Clinify-CPC_Programs/blob/main/Contributing.md)
