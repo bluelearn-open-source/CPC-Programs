@@ -3,13 +3,13 @@ This repository holds the record of the competitive programming club where the c
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/shubham-sen-gupta-932297178)
-[![Top languages](https://img.shields.io/github/languages/top/ssg8288/Clinify-CPC_Programs)](https://github.com/ssg8288/Clinify-CPC_Programs/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ssg8288/Clinify-CPC_Programs/issues)
-[![License](https://img.shields.io/github/license/ssg8288/Clinify-CPC_Programs?style=flat-square)](https://github.com/ssg8288/Clinify-CPC_Programs/blob/main/LICENSE)
-[![Forks](https://img.shields.io/github/forks/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs/network/members)
-[![Stargazers](https://img.shields.io/github/stars/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs/stargazers)
-[![Issues](https://img.shields.io/github/issues/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs/issues)
-[![Contributors](https://img.shields.io/github/contributors/ssg8288/Clinify-CPC_Programs.svg?logo=github)](https://github.com/ssg8288/Clinify-CPC_Programs)
+[![Top languages](https://img.shields.io/github/languages/top/Clinify-Open-Sauce/CPC-Programs)](https://github.com/Clinify-Open-Sauce/CPC-Programs/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Clinify-Open-Sauce/CPC-Programs/issues)
+[![License](https://img.shields.io/github/license/Clinify-Open-Sauce/CPC-Programs?style=flat-square)](https://github.com/Clinify-Open-Sauce/CPC-Programs/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/Clinify-Open-Sauce/CPC-Programs.svg?logo=github)](https://github.com/Clinify-Open-Sauce/CPC-Programs/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Clinify-Open-Sauce/CPC-Programs.svg?logo=github)](https://github.com/Clinify-Open-Sauce/CPC-Programs/stargazers)
+[![Issues](https://img.shields.io/github/issues/Clinify-Open-Sauce/CPC-Programs.svg?logo=github)](https://github.com/Clinify-Open-Sauce/CPC-Programs/issues)
+[![Contributors](https://img.shields.io/github/contributors/Clinify-Open-Sauce/CPC-Programs.svg?logo=github)](https://github.com/Clinify-Open-Sauce/CPC-Programs)
 
 # Guidelines For Contributors 
 
@@ -23,4 +23,4 @@ This repository holds the record of the competitive programming club where the c
 
 # Contributing for the first time on github??
 
-- check this article [How to get started](https://github.com/ssg8288/Clinify-CPC_Programs/blob/main/Contributing.md)
+- check this article [How to get started](https://github.com/Clinify-Open-Sauce/CPC-Programs/blob/main/Contributing.md)
